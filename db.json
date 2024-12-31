@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1Gb File",
+      "author": "Nizam",
+      "file": "./public/SpeedFile.mp3"
+    }
+  ]
+}
